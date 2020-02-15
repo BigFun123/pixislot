@@ -1,3 +1,7 @@
+/**
+ * PIXI Slots with RX
+ */
+
 import * as RX from 'rxjs';
 import AssetLoader from './assetloader.js';
 
