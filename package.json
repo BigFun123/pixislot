@@ -11,10 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "babel-loader": "^8.0.6",
-    "rxjs": "^6.5.4"
+    "rxjs": "^6.5.4",
+    "tar": "7.5.3"
   },
   "devDependencies": {
-    "webpack": "^4.41.6",
-    "webpack-cli": "^3.3.11"
+    "webpack": "^5.104.1",
+    "webpack-cli": "^6.0.1"
   }
 }
